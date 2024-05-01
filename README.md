@@ -31,7 +31,7 @@ How to use the GDC client for downloading the files
      ```
    *  Then use the command to download files
     ```
-    gdc-client download -m /home/pdutta/TCGA-GDC_data/Manifest_file/BRCA/SNV/gdc_manifest.2023-07-05.txt -t /home/pdutta/TCGA-GDC_data/GDC_files/gdc-user-token.2023-06-29T15_22_52.765Z.txt -d /home/pdutta/TCGA-GDC_data/Data/BRCA/SNV/
+    gdc-client download -m /home/pdutta/TCGA-GDC_data/Manifest_file/BRCA/SNV/maifest_file.txt -t /home/pdutta/TCGA-GDC_data/GDC_files/token.txt -d /home/pdutta/TCGA-GDC_data/Data/BRCA/SNV/
     ```
     Here,
     * `**-m /home/pdutta/TCGA-GDC_data/Manifest_file/BRCA/SNV/gdc_manifest.2023-07-05.txt**`: path to the manifest file
